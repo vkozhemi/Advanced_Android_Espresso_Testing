@@ -1,0 +1,2 @@
+rootProject.name = "Advanced Android Espresso Testing"
+include ':app'
