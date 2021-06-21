@@ -1,0 +1,4 @@
+#Tue Jun 22 00:22:14 EEST 2021
+base.0=/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

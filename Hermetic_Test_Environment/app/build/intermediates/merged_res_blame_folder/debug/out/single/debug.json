@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Julia/AndroidStudioProjects/Advanced_Android_Espresso_Testing/Hermetic_Test_Environment/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

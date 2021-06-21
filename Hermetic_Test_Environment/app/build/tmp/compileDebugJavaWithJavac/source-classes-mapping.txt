@@ -1,0 +1,2 @@
+com/sqisland/android/espresso/hermetic/BuildConfig.java
+ com.sqisland.android.espresso.hermetic.BuildConfig
